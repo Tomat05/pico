@@ -1,5 +1,7 @@
 # pico
 
+Repository for Engineering Society Pico project
+
 ## Thonny
 
 ### Windows
