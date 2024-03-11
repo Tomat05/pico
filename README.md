@@ -42,4 +42,4 @@ sudo dnf install thonny
 ### VSCode
 
 - This option is recommended for people who already have vscode installed and know at least vaguely what they're doing.
-- To use the Pico wit vscode, install the `MicroPico` extension.
+- To use the Pico with vscode, install the `MicroPico` extension.
