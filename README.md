@@ -1,37 +1,45 @@
 # pico
 
-Repository for Engineering Society Pico project
+Repository for Engineering Society Pico project.
 
-## Thonny
+## Writing Code for the Pico
 
-### Windows
+### Thonny
 
-- Go to the [website](https://thonny.org/) and download the Windows installer for the latest supported Python version 
+- This option is recommended for people with little-to-no prior programming experience.
+- Installation is as follows:
 
-### Mac
+#### Windows
 
-- Open the terminal and
+- Go to the [website](https://thonny.org/) and download the Windows installer for the latest supported Python version.
+
+#### Mac
 
 ```sh
 brew install thonny
 ```
 
-### Linux
+#### Linux
 
-- Arch
+- Arch:
 
 ```sh
 yay -S thonny
 ```
 
-- Debian/Ubuntu
+- Debian/Ubuntu:
 
 ```sh
 sudo apt install thonny
 ```
 
-- Fedora
+- Fedora:
 
 ```sh
 sudo dnf install thonny
 ```
+
+### VSCode
+
+- This option is recommended for people who already have vscode installed and know at least vaguely what they're doing.
+- To use the Pico wit vscode, install the `MicroPico` extension.
